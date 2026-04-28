@@ -50,27 +50,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" title="Linux" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="power bi logo" title="Power Bi" />
 </div>
-
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-  <img src="https://github.com/AmirAliAttiaAli/AmirAliAttiaAli/blob/output/snake-dark.svg" alt="Snake animation" />
-</div>
-
-<!--
-**AmirAliAttiaAli/AmirAliAttiaAli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
