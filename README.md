@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Amir 👋</h1>
 
-<h3 align="center">📊 Data Scientist | Machine Laerning Engineer | 📈 Data Analyst</h3>
+<h3 align="center">📊 Data Scientist | Machine Learning Engineer | 📈 Data Analyst</h3>
 
 <div align="center">
 
